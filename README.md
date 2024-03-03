@@ -35,5 +35,7 @@ Fix
 
 #### Testing some parts only but dont want to run whole application?
 
-Jshell - terminal type jshell
-`/env -class-path /path/to/myapp.jar`
+Jshell - terminal
+
+1. `jshell`
+2. `/env -class-path /path/to/myapp.jar`
