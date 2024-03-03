@@ -2,6 +2,8 @@
 
 1. PGAdmin (DB NAME: demo)
 2. Postman can be accessed via localhost:5001
+3. Run project using `mvn spring-boot:run` on terminal
+4. Testing: `mvn test`
 
 ### Creating simple REST API with Springboot
 

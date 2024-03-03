@@ -21,7 +21,7 @@ public class GeneralUser { // User is a reserved keyword in PGSQL
     }
 
     // Full Constructor
-    public GeneralUser(Long id, String username, String password, Set<MenuItem> cart) {
+    public GeneralUser(Long id, String username, String password) {
         this.id = id;
         this.username = username;
         this.password = password;
