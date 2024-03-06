@@ -1,5 +1,5 @@
 ### Downloads
-1. IntelliJ IDEA (https://www.jetbrains.com/idea/download/?section=mac) scroll down
+1. IntelliJ Community IDEA (https://www.jetbrains.com/idea/download/?section=mac) scroll down
 2. New Project > Download JDK 21/17
 3. Then proceed to Spring Initializer (https://start.spring.io/)
 
