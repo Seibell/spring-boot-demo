@@ -6,7 +6,7 @@
 
 ### Setup & Info
 
-1. PGAdmin (DB NAME: demo)
+1. PGAdmin (DB NAME: demo) or use H2 db
 2. Postman can be accessed via localhost:5001
 3. Run project using `mvn spring-boot:run` on terminal
 4. Testing: `mvn test`
